@@ -1,1 +1,2 @@
-This is foooter file.
+This is foooter file line 1.
+This is foooter file line 2.
